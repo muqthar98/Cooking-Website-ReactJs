@@ -1,0 +1,45 @@
+.login_container{
+    margin-left: 40%;
+    width: 300px; 
+    padding: 20px;
+    margin-top: 5px;
+    border: 1px solid lightgrey;
+}
+
+.link{
+  color: #111;
+  text-decoration: none;
+}
+
+.login {
+  margin-top: 50px;
+  padding: 15px;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  max-width: 330px;
+  padding-top: 100px;
+}
+
+.loginbutton {
+  margin-top: 15px;
+  background-color: #929aab;
+  border-radius: 20px;
+}
+
+.signupbutton {
+  border-radius: 20px;
+  background-color: #929aab;
+}
+
+.loginbutton:hover{
+  background-color: #fddb3a;
+}
+
+.signupbutton:hover{
+  background-color: #fddb3a;
+}
+
+.t1{
+  margin-top: -55px;
+}
